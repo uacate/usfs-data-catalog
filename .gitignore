@@ -1,3 +1,8 @@
+*scratch*
+.env
+*.tmp
+*.pyc
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
